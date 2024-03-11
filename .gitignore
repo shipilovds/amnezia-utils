@@ -1,0 +1,4 @@
+Makefile
+artifacts
+.qmake.stash
+**.o
